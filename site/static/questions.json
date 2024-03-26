@@ -11,19 +11,19 @@
   },
   {
     "question": "Yo Comer",
-    "correct_answer": 2,
+    "correct_answer": 0,
     "answers": [
-      "Comimos",
-      "Comias",
       "Comia",
+      "Comias",
+      "Comiamos",
       "Comian"
     ]
   },
   {
     "Question": "Tu Vivir",
-    "Correct answer": 1,
+    "Correct answer": 0,
     "answers": [
-      "Viven",
+      "Vivias",
       "Vivias",
       "Viviemos",
       "vivian"
@@ -31,12 +31,12 @@
   },
   {
     "Question": "Ellos Comer",
-    "Correct answer": 3,
+    "Correct answer": 0,
     "answers": [
-      "Comiamos",
+      "Comian",
       "Comia",
       "Comias",
-      "Comian"
+      "Comiamos"
     ]
   },
   {
@@ -50,7 +50,197 @@
     ]
   }
 ]
-    
-      
-    
+{
+    "question": "Tu Hablabas",
+    "correct_answer": 0,
+    "answers": [
+      "True",
+      "False"
+    ]
+  },
+{
+    "question": "Tu Jugabas",
+    "correct_answer": 0,
+    "answers": [
+      "True",
+      "False"
+     
+    ]
+  },
+{
+    "question": "Ellos Dormiaban",
+    "correct_answer": 0,
+    "answers": [
+      "False",
+      "True"
+    ]
+  },
+    {
+    "question": "Yo Dormian",
+    "correct_answer": 0,
+    "answers": [
+      "False",
+      "True"
+    ]
+  },
+{
+    "question": "Yo Jugar",
+    "correct_answer": 0,
+    "answers": [
+      "Jugaba",
+      "Jugamias",
+      "Jugamanos",
+      "Jugaban"
+    ]
+  },
+      {
+    "question": "Nosostros estudiar",
+    "correct_answer": 0,
+    "answers": [
+      "estudiabamos",
+      "Not a real question",
+      "Yes",
+      "estudias"
+    ]
+  },
+{
+    "question": "What is 2+2?",
+    "correct_answer": 0,
+    "answers": [
+      "4",
+      "22",
+      "Math",
+      "Its too early"
+    ]
+  },
+{
+    "question": "El Querer",
+    "correct_answer": 0,
+    "answers": [
+      "Queria",
+      "Queiro",
+      "Queriamos",
+      "Querias"
+    ]
+  },
+{
+    "question": "El Decia",
+    "correct_answer": 0,
+    "answers": [
+      "True",
+      "False"
+    ]
+  },
+{
+    "question": "Tu Trabajar",
+    "correct_answer": 0,
+    "answers": [
+      "Trabajabas",
+      "Trabajo",
+      "Trabajabamos",
+      "Si"
+    ]
+  },
+{
+    "question": "Ellos Hablar",
+    "correct_answer": 0,
+    "answers": [
+      "Hablaban",
+      "Hablabamos",
+      "Hablabia ",
+      "Hablabo"
+    ]
+  },
+{
+    "question": "Ellos Viviamos",
+    "correct_answer": 0,
+    "answers": [
+      "False",
+      "True"
+    ]
+  },
+    {
+    "question": "Yo Sacar",
+    "correct_answer": 0,
+    "answers": [
+      "Sacaba",
+      "Saco",
+      "Taco",
+      "Sacabia"
+    ]
+  },
+{
+    "question": "Yo Comia",
+    "correct_answer": 0,
+    "answers": [
+      "True",
+      "False"
+    ]
+  },
+{
+    "question": "Tu Comia",
+    "correct_answer": 0,
+    "answers": [
+      "False",
+      "True"
+    ]
+  },
+{
+    "question": "Tu Comer",
+    "correct_answer": 0,
+    "answers": [
+      "Comias",
+      "Comia",
+      "Comiamos",
+      "Comian"
+    ]
+  },
+{
+    "question": "Tu Vivir",
+    "correct_answer": 0,
+    "answers": [
+      "vivias",
+      "viven",
+      "viviamos",
+      "vivas"
+    ]
+  },
+{
+    "question": "Ellas Pasar",
+    "correct_answer": 0,
+    "answers": [
+      "Pasaban",
+      "Paso",
+      "Pasabamos",
+      "Pasabia"
+    ]
+  },
+{
+    "question": "Tu Vivias",
+    "correct_answer": 0,
+    "answers": [
+      "True",
+      "False"
+    ]
+  },
+{
+    "question": "Yo Saber",
+    "correct_answer": 0,
+    "answers": [
+      "Sabia",
+      "Sabian",
+      "Sabamos",
+      "Sobiamon"
+    ]
+  },
+{
+    "question": "Are you having fun",
+    "correct_answer": 0,3, 
+    "answers": [
+      "Yes",
+      "No",
+      "I hate this",
+      "We should do this more"
+    ]
+  },
   
